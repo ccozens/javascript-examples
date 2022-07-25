@@ -1,6 +1,6 @@
 # Javascript examples
 
-These are javascript modules I have written while following learning JS on CodeAcademy. I have only uploaded scripts that required very basic instructions. I'd love feedback on them, and please let me know if anything weird happens!
+These are javascript modules I have written while following learning JS on CodeAcademy. I have only uploaded scripts that required very basic instructions, meaning I actually needed to write them in unguided fashion. I'd love feedback on them, and please let me know if anything weird happens.
 
 
 ## Number guessing game
